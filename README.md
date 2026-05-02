@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني إليك
+> قلبي ينادي دايما عليك
+> في عيوني شوق وغرام
+> أنت النور في هذا الظلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
