@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hadfa3-tamenak/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Mosh Hadfa3 Tamenak](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Mosh Hadfa3 Tamenak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
